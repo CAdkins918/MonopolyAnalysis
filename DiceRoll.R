@@ -1,6 +1,7 @@
 # TODO: Add comment
 # 
 # Author: cartera
+# "Hey man, this is future you. Good shit...." -Carter Jan 2024
 ###############################################################################
 
 #Players current place starting at "GO"
